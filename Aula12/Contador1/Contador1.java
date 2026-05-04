@@ -6,6 +6,6 @@ public class Contador1 {
         do {
             System.out.println("Cambalhota");
             cc++;
-        }
+        }while(cc<11);
     }
 }
